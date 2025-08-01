@@ -39,11 +39,11 @@ Anomaly detection module applied to the **Avenue dataset**. The system identifie
 
 ## Key Features
 
-- ✅ Real-time object detection using YOLOv5
-- ✅ Multi-object tracking via DeepSORT
-- ✅ Speed-based anomaly detection in pedestrian motion
-- ✅ Modular folder structure for scalability and reproducibility
-- ✅ Visualization-ready outputs and video overlays
+- Real-time object detection using YOLOv5
+- Multi-object tracking via DeepSORT
+- Speed-based anomaly detection in pedestrian motion
+- Modular folder structure for scalability and reproducibility
+- Visualization-ready outputs and video overlays
 
 ---
 
